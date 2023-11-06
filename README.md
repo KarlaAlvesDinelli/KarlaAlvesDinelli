@@ -1,6 +1,6 @@
-## 💜 Olá, meu nome é <strong>{Karla Alves}!</strong>
+## 💜 Olá, me chamo <strong>{Karla Alves}!</strong>
 
-> 👩‍💻 Desenvolvedora Front-End Júnior com 3 anos de experiência, apaixonada por criar interfaces web e mobile atraentes e interativas. Me formei no Ensino Médio Técnico em Informática no Lemos de Castro e desde então tenho me dedicado à programação.
+ 👩‍💻 Desenvolvedora Front-End Júnior com 3 anos de experiência, apaixonada por criar interfaces web e mobile atraentes e interativas. Me formei no Ensino Médio Técnico em Informática no Lemos de Castro e desde então tenho me dedicado à programação.
 
  💼 Minha jornada inclui projetos pessoais onde desenvolvi E-commerce e software de administração de vendedores. 
 
@@ -22,4 +22,4 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarlaAlvesDinelli_icons=true)
