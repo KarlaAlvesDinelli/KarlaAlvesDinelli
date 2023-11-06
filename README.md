@@ -29,7 +29,9 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarlaAlvesDinelli&show_icons=true)
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarlaAlvesDinelli&layout=compact" />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KarlaAlvesDinelli&theme=radical" alt="" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarlaAlvesDinelli&theme=radical" />
+</div>
 
 
