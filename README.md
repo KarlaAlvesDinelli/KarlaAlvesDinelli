@@ -1,10 +1,15 @@
 ## 💜 Olá, me chamo <strong>{Karla Alves}!</strong>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
- >👩‍💻 Desenvolvedora Front-End Júnior com 2 anos de experiência, apaixonada por criar interfaces web e mobile atraentes e interativas. Me formei no Ensino Médio Técnico em Informática no Lemos de Castro e desde então tenho me dedicado à programação.
+ >👩‍💻 Desenvolvedora Front-End Júnior, apaixonada por criar interfaces web e mobile atraentes e interativas. 
 
  💼 Minha jornada inclui projetos pessoais onde desenvolvi E-commerce, software de administração de vendedores e sites institucionais. 
 
-💬 Vamos bater um papo e construir coisas incríveis juntos! 🚀
+ 💬 Vamos bater um papo e construir coisas incríveis juntos! 🚀
+
+ ### Social:
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karlaalvesdinelli/)
+
 
 ---
 
@@ -25,4 +30,6 @@
 ## ⭐ Informações sobre minha conta GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarlaAlvesDinelli&show_icons=true)
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarlaAlvesDinelli&layout=compact" />
+
 
