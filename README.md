@@ -2,7 +2,7 @@
 
  >👩‍💻 Desenvolvedora Front-End Júnior com 2 anos de experiência, apaixonada por criar interfaces web e mobile atraentes e interativas. Me formei no Ensino Médio Técnico em Informática no Lemos de Castro e desde então tenho me dedicado à programação.
 
- 💼 Minha jornada inclui projetos pessoais onde desenvolvi E-commerce e software de administração de vendedores. 
+ 💼 Minha jornada inclui projetos pessoais onde desenvolvi E-commerce, software de administração de vendedores e sites institucionais. 
 
 💬 Vamos bater um papo e construir coisas incríveis juntos! 🚀
 
