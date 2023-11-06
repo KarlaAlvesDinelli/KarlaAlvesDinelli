@@ -22,4 +22,4 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarlaAlvesDinelli_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pKarlaAlvesDinelli&show_icons=true)
