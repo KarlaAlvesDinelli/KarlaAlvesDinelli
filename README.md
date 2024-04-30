@@ -1,7 +1,7 @@
 ## 💜 Olá, me chamo <strong>{Karla Alves}!</strong>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
- >👩‍💻 Desenvolvedora Front-End Júnior, apaixonada por criar interfaces web, design e mobile atraentes e interativas. 
+ >👩‍💻 Desenvolvedora Front-End Júnior, apaixonada por criar design, interfaces web e mobile atraentes e interativas. 
 
  💼 Minha jornada inclui projetos pessoais onde desenvolvi E-commerce, software de administração de vendedores e sites institucionais. 
 
